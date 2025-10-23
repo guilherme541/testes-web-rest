@@ -15,3 +15,6 @@ https://practicetestautomation.com/practice-test-login/
 exercicio01/
 └── tests/
 └── test_login.py
+
+
+<img width="1210" height="404" alt="image" src="https://github.com/user-attachments/assets/fdcce201-c221-4a95-81db-69884c03246c" />
