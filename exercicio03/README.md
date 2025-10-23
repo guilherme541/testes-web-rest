@@ -1,6 +1,6 @@
-#Exercício 3 — CRUD com JSONPlaceholder (REST)
+# Exercício 3 — CRUD com JSONPlaceholder (REST)
 
-Objetivo  
+## Objetivo  
 Implementar e testar operações CRUD (Create, Read, Update, Delete) usando a API pública JSONPlaceholder.  
 Atenção: é uma API “fake” somente para testes — cria/atualiza/deleta de forma simulada. Ou seja, não há persistência real entre requisições.
 
