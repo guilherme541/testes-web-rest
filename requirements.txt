@@ -1,0 +1,12 @@
+selenium==4.15.2
+webdriver-manager==4.0.1
+playwright==1.50.0
+requests==2.31.0
+jsonschema==4.20.0
+pytest==7.4.3
+pytest-cov==4.1.0
+pytest-html==4.1.1
+gevent==25.9.1
+geventhttpclient==2.3.4
+locust==2.18.0
+python-dotenv==1.0.0
